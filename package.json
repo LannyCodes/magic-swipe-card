@@ -1,0 +1,23 @@
+{
+  "name": "magic-swipe-card",
+  "version": "1.0.0",
+  "description": "这是一个简单的根据用户手势panResponder改变图片大小、翻转、透明度、松手后回到原位的简单组件，后续还会持续优化！",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LannyCodes/magic-swipe-card.git"
+  },
+  "keywords": [
+    "panResponder",
+    "Animated"
+  ],
+  "author": "LannyXu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LannyCodes/magic-swipe-card/issues"
+  },
+  "homepage": "https://github.com/LannyCodes/magic-swipe-card#readme"
+}
