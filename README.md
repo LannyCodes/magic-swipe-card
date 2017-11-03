@@ -6,6 +6,8 @@ npm install magic-swipe-card --save
 ```
 ```
 import MagicSwipeCard from 'magic-swipe-card';
+...
+
 render() {
         return (
             <MagicSwipeCard
