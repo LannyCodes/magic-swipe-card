@@ -1,6 +1,6 @@
 {
   "name": "magic-swipe-card",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "这是一个简单的根据用户手势panResponder改变图片大小、翻转、透明度、松手后回到原位的简单组件，后续还会持续优化！",
   "main": "index.js",
   "scripts": {
